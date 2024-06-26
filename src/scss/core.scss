@@ -1,0 +1,39 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.card {
+    padding: 2em;
+}
+
+.read-the-docs {
+    color: #888;
+}
+
+// Sketchy theme
+// @import "bootswatch/sketchy/variables"; 
+// @import "node_modules/bootstrap/scss/bootstrap";
+// @import "bootswatch/sketchy/bootswatch";  
+
+// Spacelab theme
+@import "bootswatch/spacelab/variables"; 
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "bootswatch/spacelab/bootswatch";  
+
+// Flatly
+// @import "bootswatch/flatly/variables"; 
+// @import "node_modules/bootstrap/scss/bootstrap";
+// @import "bootswatch/flatly/bootswatch";  
+
+// Morph theme
+// @import "bootswatch/morph/variables"; 
+// @import "node_modules/bootstrap/scss/bootstrap";
+// @import "bootswatch/morph/bootswatch";  
+
+// cyborg theme
+// @import "bootswatch/cyborg/variables"; 
+// @import "node_modules/bootstrap/scss/bootstrap";
+// @import "bootswatch/cyborg/bootswatch";  
